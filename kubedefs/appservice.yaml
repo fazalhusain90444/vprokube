@@ -9,5 +9,5 @@ spec:
   ports:
   - port: 5672
     targetPort: vproapp-port
-    protocal: TCP
+    protocol: TCP
 

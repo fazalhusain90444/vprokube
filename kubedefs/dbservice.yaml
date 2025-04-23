@@ -9,5 +9,5 @@ spec:
   ports:
   - port: 3306
     targetPort: vprodb-port
-    protocal: TCP
+    protocol: TCP
   
