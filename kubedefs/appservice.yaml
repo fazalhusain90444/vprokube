@@ -7,7 +7,7 @@ spec:
     app: vproapp
   type: ClusterIP
   ports:
-  - port: 5672
+  - port: 8080  
     targetPort: vproapp-port
     protocol: TCP
 
